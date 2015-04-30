@@ -9,3 +9,4 @@ Bitte erstellt einen Pull request dieser datei und tragt euren Namen nach folgen
 #Member List
 
 1. Klaus Schwarz
+2. Max Hartmann
