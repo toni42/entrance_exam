@@ -10,7 +10,7 @@ Bitte erstellt einen Pull request dieser datei und tragt euren Namen nach folgen
 
 1. Klaus Schwarz
 2. Nora Ackermann
-3. Antonia
+3. Stephan Hamann
 4. Max Hartman
-5. Stephan Hamann
+5. Antonia Ortenburger[*]
 
