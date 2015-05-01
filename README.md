@@ -12,5 +12,5 @@ Bitte erstellt einen Pull request dieser datei und tragt euren Namen nach folgen
 2. Nora Ackermann
 3. Stephan Hamann
 4. Max Hartman
-5. Antonia Ortenburger[*]
+5. Antonia Ortenburger
 
