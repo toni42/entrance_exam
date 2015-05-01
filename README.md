@@ -9,6 +9,7 @@ Bitte erstellt einen Pull request dieser datei und tragt euren Namen nach folgen
 #Member List
 
 1. Klaus Schwarz
-2. Max Hartmann
-3. Stephan Hamann
-4. Antonia[*]
+2. Nora Ackermann
+3. Max Hartmann
+4. Stephan Hamann
+5. Antonia
